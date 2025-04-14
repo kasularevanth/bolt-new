@@ -1,4 +1,4 @@
-I’ve developed a basic version of a web app that includes a Landing Page and a Chat Page. The current goal was to get the UI up and functional as per the design requirements."
+I’ve developed a basic version of a web app that includes a **Landing Page** and a **Chat Page**. The current goal was to get the UI up and functional as per the design requirements."
 
 Landing Page: Displays the main UI with a “Try it now” button.
 
