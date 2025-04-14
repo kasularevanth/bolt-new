@@ -1,3 +1,19 @@
+I’ve developed a basic version of a web app that includes a Landing Page and a Chat Page. The current goal was to get the UI up and functional as per the design requirements."
+
+Landing Page: Displays the main UI with a “Try it now” button.
+
+On click, a signup card pops up where users can enter their email to proceed.
+
+Currently, Google authentication is disabled for now.
+
+After submitting an email, the user is redirected to the Chat Page.
+
+The Chat Page UI is in place but doesn’t have real-time backend/chat functionality yet.
+
+"This is just the initial frontend setup. The UI is clean, responsive, and component-based. I’ve kept it flexible for integrating real auth and chat features later.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
